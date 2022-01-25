@@ -38,7 +38,7 @@ The following **metadata** are reported, for each **publication**:
 * _Anna Di Mauro_ - Department of Engineering | Università degli studi della Campania Luigi Vanvitelli (Italy) |  anna.dimauro@unicampania.it;
 * _Andrea Cominola_ - [Chair of Smart Water Networks](https://www.swn.tu-berlin.de/menue/smart_water_networks/) | Technische Universität Berlin - Einstein Center Digital Future (Germany) |  andrea.cominola@tu-berlin.de;
 * _Andrea Castelletti_ - Department of Electronics, Information and Bioengineering | Politecnico di Milano (Italy) | andrea.castelletti@polimi.it
-* _Armando Di Nardo_ -Department of Engineering | Università degli studi della Campania Luigi Vanvitelli (Italy) |   armando.dinardo@unicampania.it 
+* _Armando Di Nardo_ - Department of Engineering | Università degli studi della Campania Luigi Vanvitelli (Italy) |   armando.dinardo@unicampania.it 
 
 ## Citation and reference:
 To cite our database, please refer to [this stable version](http://doi.org/10.5281/zenodo.4390460): 
